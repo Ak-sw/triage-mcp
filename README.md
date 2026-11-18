@@ -108,4 +108,4 @@ Tests mock the Gemini API so no key is needed to run them locally or in CI.
 
 ## Author
 
-Aksh Swanni — Calgary, AB
+Aksh Swanni 
