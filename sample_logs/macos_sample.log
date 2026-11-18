@@ -1,0 +1,5 @@
+2026-11-01 08:55:12 installd[234]: PackageKit: install request for /var/folders/.../Zoom.pkg
+2026-11-01 08:55:13 installd[234]: Starting install of Zoom.pkg
+2026-11-01 08:55:14 installd[234]: Error: Package requires macOS 13.0 or later; current OS is 12.6.9
+2026-11-01 08:55:14 installd[234]: Install failed with error: -128
+2026-11-01 08:55:14 mdmclient[198]: MDM result for install: Error Domain=NSCocoaErrorDomain Code=-128

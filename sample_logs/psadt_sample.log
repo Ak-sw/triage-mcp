@@ -1,0 +1,7 @@
+[2026-11-01 09:14:20] [PSADT] Deploy-Application.ps1 started
+[2026-11-01 09:14:20] [PSADT] Session 0 detected - running in non-interactive mode
+[2026-11-01 09:14:21] [PSADT] Pre-install check: Adobe Reader not found
+[2026-11-01 09:14:22] [PSADT] Starting MSI installation
+[2026-11-01 09:14:25] [PSADT] MSI installation failed with exit code 1
+[2026-11-01 09:14:25] [PSADT] Error detail: 0x80070001 Incorrect function
+[2026-11-01 09:14:25] [PSADT] Deploy-Application.ps1 finished with error
