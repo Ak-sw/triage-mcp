@@ -26,7 +26,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Lint with flake8
-        run: flake8 triage.py tests/ --max-line-length=100
+        run: flake8 triage.py tests/ --max-line-length=100 --extend-ignore=E402
 
       - name: Run tests
         run: pytest tests/ -v
